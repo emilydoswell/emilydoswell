@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
-<h3 align="center">A passionate developer from the UK</h3>
+<h3 align="center">I'm a developer from the UK</h3>
 
 - 🔭 I’m currently working on **my-portfolio**
 
