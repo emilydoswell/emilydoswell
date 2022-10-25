@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my-portfolio**
 
-- 🌱 I’m currently learning **React and Java**
+- 🌱 I’m currently learning **React and Python**
 
 - 👯 My most recent project [Ambool](http://amueblarte.herokuapp.com/)
 
