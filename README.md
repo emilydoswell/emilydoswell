@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center">I'm a determined and motivated developer from the UK</h3>
 
-- 🔭 I’m currently working on **my-portfolio**
+- 🔭 I’m currently working on **A Tik Tak Toe Game**
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **Java**
 
 - 👯 My most recent project [Ambool](http://amueblarte.herokuapp.com/)
 
